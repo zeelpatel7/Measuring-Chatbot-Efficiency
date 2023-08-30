@@ -1,0 +1,16 @@
+Language ,Code,ChatGPT,Bard,Perplexity,Chatsonic,Bing AI
+Python,Fib,13,18,14,23,19
+Python,LL,51,40,32,17,49
+Python,BFS,37,30,19,18,42
+Python,Merge Sort,38,31,33,45,0
+Python,Fractional Knapsack,31,25,35,40,0
+CPP,Fib,45,27,19,26,28
+CPP,LL,83,51,38,59,43
+CPP,BFS,57,46,31,54,42
+CPP,Merge Sort,78,52,69,87,0
+CPP,Fractional Knapsack,58,44,47,47,0
+Java,Fib,48,25,19,22,18
+Java,LL,74,43,47,57,51
+Java,BFS,59,45,36,56,36
+Java,Merge Sort,58,47,60,87,0
+Java,Fractional Knapsack,68,38,47,59,0
