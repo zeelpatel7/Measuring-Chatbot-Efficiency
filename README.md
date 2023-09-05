@@ -23,7 +23,7 @@ The syntax of code directly influences its efficiency. Proper syntax ensures acc
 Code completeness is crucial for efficiency. Incomplete code leads to runtime errors and unexpected behavior. Missing components or logic gaps hinder execution, causing inefficiencies. Complete code ensures smooth execution, reducing debugging time and enhancing overall efficiency.
 
 
-![image](https://github.com/zeelpatel7/Measuring-Chatbot-Efficiency/assets/66508195/a38ca680-34ee-4700-81cf-e507214b77cd) | width = 100
+![image]((https://github.com/zeelpatel7/Measuring-Chatbot-Efficiency/assets/66508195/a38ca680-34ee-4700-81cf-e507214b77cd) | width = 100)
 Fig: Speed of Code Retrieval 
 
 ![image](https://github.com/zeelpatel7/Measuring-Chatbot-Efficiency/assets/66508195/36d8b9ec-2e2d-434a-a00c-7e3f2a3a9be3)
