@@ -23,16 +23,17 @@ The syntax of code directly influences its efficiency. Proper syntax ensures acc
 Code completeness is crucial for efficiency. Incomplete code leads to runtime errors and unexpected behavior. Missing components or logic gaps hinder execution, causing inefficiencies. Complete code ensures smooth execution, reducing debugging time and enhancing overall efficiency.
 
 
-![image]((https://github.com/zeelpatel7/Measuring-Chatbot-Efficiency/assets/66508195/a38ca680-34ee-4700-81cf-e507214b77cd) | width = 100)
+![image](https://github.com/zeelpatel7/Measuring-Chatbot-Efficiency/assets/66508195/a38ca680-34ee-4700-81cf-e507214b77cd) <br />
 Fig: Speed of Code Retrieval 
 
-![image](https://github.com/zeelpatel7/Measuring-Chatbot-Efficiency/assets/66508195/36d8b9ec-2e2d-434a-a00c-7e3f2a3a9be3)
+![image](https://github.com/zeelpatel7/Measuring-Chatbot-Efficiency/assets/66508195/36d8b9ec-2e2d-434a-a00c-7e3f2a3a9be3) <br />
+
 Fig: Lines of Code
 
-![image](https://github.com/zeelpatel7/Measuring-Chatbot-Efficiency/assets/66508195/10e61909-a842-4cb6-bbc6-f48c0a7b5fcd)
+![image](https://github.com/zeelpatel7/Measuring-Chatbot-Efficiency/assets/66508195/10e61909-a842-4cb6-bbc6-f48c0a7b5fcd) <br />
 Fig: Syntax Analysis
 
-![image](https://github.com/zeelpatel7/Measuring-Chatbot-Efficiency/assets/66508195/07e995a1-ea28-4b94-bc43-705daf5f2f7d)
+![image](https://github.com/zeelpatel7/Measuring-Chatbot-Efficiency/assets/66508195/07e995a1-ea28-4b94-bc43-705daf5f2f7d) <br />
 Fig: Completeness
 
 
